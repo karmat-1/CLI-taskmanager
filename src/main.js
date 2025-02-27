@@ -2,11 +2,11 @@
 
 // import deleteTask from "./commands/delete-task.command.js";
 
-// deleteTask
+// deleteTask();
 
 // import readTask from "./commands/read-task.command.js";
 
-// readTask
+// readTask();
 
 import addTask from "./commands/add-task.command.js";
 
