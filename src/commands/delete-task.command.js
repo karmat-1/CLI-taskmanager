@@ -31,7 +31,7 @@ export default async function deleteTask ()
         
         // delete the task
        const response = await Task.deleteOne( answer.identifier )
-        console.log(userResponse);
+    
         // stop our spinner
         spinner.stop()
 
