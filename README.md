@@ -21,7 +21,7 @@ A simple command-line task manager built with JavaScript.
 # Clone the repository
 git clone https://github.com/karmat-1/cl-taskmanager.git
 
-cd cl-taskmanager
+cd cli-taskmanager
 
 # Install dependencies
 npm install
