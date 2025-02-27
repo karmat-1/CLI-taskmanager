@@ -30,5 +30,5 @@ npm install
 
 Run the task manager using:
 ```bash
-node main.js
+node ./src/main.js
 ```
